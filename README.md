@@ -1,4 +1,3 @@
-## Material Design Stock Theme
+## HLTech Discourse Theme
 
-More info at: https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
-
+Based on [https://github.com/discourse/material-design-stock-theme](https://github.com/discourse/material-design-stock-theme)

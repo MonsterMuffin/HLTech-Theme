@@ -1,3 +1,8 @@
+Copyright for portions of this project are held by Discourse, 2017 as part of "material-design-stock-theme".
+All other copyright for this project are held by HLTech, 2017.
+
+---
+
 Copyright (c) 2017: Discourse
 
 MIT License

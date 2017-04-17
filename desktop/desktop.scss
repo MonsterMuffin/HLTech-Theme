@@ -1,5 +1,5 @@
 //add space between categories
-.topic-list.categories{  
+.topic-list.categories{
       border-spacing: 0 1em;
       border-collapse: separate;
 }
@@ -15,7 +15,7 @@
 }
 
 //Shadows for categories
-.topic-list.categories>tbody>tr td.category, .topic-list.categories>tbody>tr td.stats, .topic-list.categories>tbody>tr td.latest{  
+.topic-list.categories>tbody>tr td.category, .topic-list.categories>tbody>tr td.stats, .topic-list.categories>tbody>tr td.latest{
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 0 0 0 rgba(0, 0, 0, 0.12);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 0 0 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 0 0 0 rgba(0, 0, 0, 0.12);
@@ -120,7 +120,7 @@ padding-left:inherit;
     -webkit-box-shadow: 0 0px 0px 0 rgba(0,0,0,0.16),0 0px 00px 0 rgba(0,0,0,0.12);
     -moz-box-shadow: 0 0px 0px 0 rgba(0,0,0,0.16),0 0px 00px 0 rgba(0,0,0,0.12);
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0.16),0 0px 00px 0 rgba(0,0,0,0.12);
-    
+
 }
 .btn:focus{
     outline: -webkit-focus-ring-color auto 0px;
@@ -135,8 +135,8 @@ padding-left:inherit;
     right: 50px;
     z-index: 999;
     padding: 24px 20px 22px 5px;
-    background-color: $tertiary; 
-    color: $tertiary; 
+    background-color: $tertiary;
+    color: $tertiary;
     white-space: nowrap;
     text-indent: 10px;
     -webkit-box-shadow: 0 0 4px rgba(0,0,0,0.14),0 4px 8px rgba(0,0,0,0.28);
@@ -193,7 +193,7 @@ padding-left:inherit;
 
 
 //Proper spacing for iPad portrait
-@media only screen 
+@media only screen
 and (min-width : 768px)
 and (max-width: 1250px)
 {
@@ -202,7 +202,7 @@ and (max-width: 1250px)
     }
     .topic-admin-popup-menu{
         left:-40% !important;
-        
+
     }
 
 }
@@ -248,11 +248,11 @@ and (max-width: 1250px)
 
 // RTL Overrides
 .rtl {
-      
+
   .widget-button.btn.notifications-dropdown .fa {
      margin-left: -2px;
   }
-      
+
   .topic-avatar {
     padding-right: initial;
     padding-left: 10px;
